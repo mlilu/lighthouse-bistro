@@ -1,0 +1,64 @@
+/* Lilu M. w1770997 12/09/2022 17050 */
+
+body {
+  background-color: #000080;
+}
+#wrapper {
+  background-color: #ffffff;
+  box-shadow: 10px 10px #0000ff;
+}
+h1 {
+  background-color: #869dc7;
+  line-height: 250%;
+  padding: 10px;
+  padding-bottom: 0%;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  margin-bottom: 0;
+}
+nav {
+  display: block;
+
+  width: 150px;
+  height: 385px;
+  margin: 0%;
+  padding: 0%;
+}
+nav a:hover {
+  color: #ffffff;
+}
+.column-1 {
+  float: left;
+  width: 15%;
+  background-color: #9db8ea;
+}
+.column-2 {
+  float: left;
+  width: 85%;
+}
+.row:after {
+  display: table;
+  clear: both;
+}
+dl {
+  padding-left: 1em;
+}
+dt {
+  font-weight: bold;
+}
+
+img {
+  float: right;
+  padding-right: 1em;
+}
+footer {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: #869dc7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.cost {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
